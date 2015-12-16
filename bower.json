@@ -1,11 +1,11 @@
 {
-  "name": "angular-locale_es-es",
-  "main": "angular-locale_es-es.js",
+  "name": "angular-locale_it-IT",
+  "main": "angular-locale_it-IT.js",
   "version": "0.0.1",
   "authors": [
-    "Alberto Alcaraz <alberto.alcaraz@testabit.com>"
+    "Moreno Balcon <moreno.balcon@gmail.com>"
   ],
-  "description": "es-es locale for AngularJs",
+  "description": "it-IT locale for AngularJS",
   "moduleType": [
     "globals"
   ],
